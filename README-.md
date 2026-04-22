@@ -44,7 +44,7 @@ This project builds and benchmarks three deep learning models on a real-world ae
 
 ## 🎬 Live Demo
 
-> **🚀 Launch App:** [https://aerial-object-classification-drone-vs-bird-yolov8-ut3dvxouqwto.streamlit.app/](https://aerial-object-classification-drone-vs-bird-yolov8-ut3dvxouqwto.streamlit.app/)
+> **🚀 Web App Direct Link :** [https://aerial-object-classification-drone-vs-bird-yolov8-ut3dvxouqwto.streamlit.app/](https://aerial-object-classification-drone-vs-bird-yolov8-ut3dvxouqwto.streamlit.app/)
 
 | Upload Image | Prediction Output |
 |:---:|:---:|
@@ -160,8 +160,8 @@ aerial-object-classification-drone-vs-bird-yolov8/
 ## 🚀 Getting Started
 
 ### Prerequisites
-- Python 3.9+
-- GPU recommended (CUDA 11.8+) — CPU works but is slower
+- Python 3.10
+- GPU recommended (CUDA 11.8+) 
 
 ### 1. Clone the repository
 ```bash
