@@ -253,7 +253,7 @@ Streamlit Cloud runs on Debian 13 (trixie). `ultralytics` hardcodes `opencv-pyth
 ---
 
 <p align="center">
-  Built with 🧠 deep learning and ☕ coffee &nbsp;·&nbsp;
+  Built With Deep Learning & Coffee &nbsp;·&nbsp;
   <a href="https://github.com/yash-kulkarni-ai/aerial-object-classification-drone-vs-bird-yolov8">GitHub</a> &nbsp;·&nbsp;
   <a href="https://aerial-object-classification-drone-vs-bird-yolov8-ut3dvxouqwto.streamlit.app/">Live Demo</a>
 </p>
